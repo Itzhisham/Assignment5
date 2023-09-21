@@ -1,0 +1,4 @@
+
+input_string = "Hello, World!"
+for index, char in enumerate(input_string):
+    print(f"Character '{char}' is at index {index}")
